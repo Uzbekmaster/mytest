@@ -1,2 +1,3 @@
 Birinchi o`zgarishlar
 Git pull uchun o`zgarishlar
+git fetch uchun o`zgarish
